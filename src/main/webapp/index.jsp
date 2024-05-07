@@ -8,7 +8,7 @@
 <h1><%= "Hello World!" %>
 </h1>
 <br/>
-<a href="">Excerice 1</a> <br><br><br>
+<a href="Exercice1/Form.jsp">Excerice 1</a> <br><br><br>
 <a href="Exercice2/Liste.jsp">Exercice 2</a> <br><br><br>
 </body>
 </html>
